@@ -1,0 +1,22 @@
+
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #f8f9fa;
+}
+
+.hero-section {
+  background: linear-gradient(to right, #004080, #001f33);
+  padding: 100px 20px;
+}
+
+h2 {
+  margin-bottom: 20px;
+}
+
+.card i {
+  color: #004080;
+}
+
+footer {
+  margin-top: 40px;
+}
